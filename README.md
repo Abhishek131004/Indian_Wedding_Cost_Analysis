@@ -124,7 +124,7 @@ Indian_Wedding_Cost_Analysis.ipynb
 
 ---
 
-## 📚 Libraries Required
+##  Libraries Required
 
 ```text
 pandas
