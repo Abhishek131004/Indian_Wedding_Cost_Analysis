@@ -157,9 +157,3 @@ Contributions, suggestions, and improvements are welcome.
 5. Open a Pull Request
 
 ---
-
-
-
----
-
-## ⭐ If you found this project useful, please consider giving it a star!
